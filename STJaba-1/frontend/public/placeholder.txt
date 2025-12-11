@@ -1,0 +1,5 @@
+Place your `map.png` image in this folder so the app can load it at `/map.png`.
+
+If you don't have a `map.png` yet, the app will show a gray placeholder background.
+
+Recommended size: same aspect ratio as your backend map grid (e.g. 500x500).
